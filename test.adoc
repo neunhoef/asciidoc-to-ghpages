@@ -1,0 +1,21 @@
+My first page
+=============
+////
+Big ol' comment
+
+sittin' right 'tween this here title 'n header metadata
+////
+Max Neunhöffer <max@arangodb.com>
+:description: This is my first page made with Asciidoc.
+:library: Asciidoctor
+:idprefix:
+:numbered:
+:imagesdir: images
+:toc: manual
+:css-signature: demo
+:toc-placement: preamble
+//:max-width: 800px
+//:doctype: book
+//:sectids!:
+
+Here is only a simple *sentence*.

@@ -6,7 +6,8 @@
 :link-demo-adoc: https://raw.githubusercontent.com/mgreau/asciidoc-to-ghpages/master/demo.adoc
 :cover-asciidoc-ghpages: https://mgreau.com/posts/images/cover-asciidoc-ghpages.svg
 
-How to convert *AsciiDoc* to *HTML/PDF* files output and publish it to *gh-pages* with *Travis CI, Asciidoctor and Docker*.
+How to convert *AsciiDoc* to *HTML/PDF* files output and publish it to
+*gh-pages* with *Travis CI, Asciidoctor and Docker*.
 
 * Asciidoctor Demo file:
 ** {link-demo-adoc}[AsciiDoc source file]
@@ -20,3 +21,5 @@ This blog post describes the workflow used to do it:
 [[asciidoc_ghpages_travis_docker]]
 .Convert your AsciiDoc files and Publish the HTML/PDF output to GH Pages thanks to Travis and Asciidoctor with Docker
 image::http://mgreau.com/posts/images/cover-asciidoc-ghpages.svg[AsciiDoc to Github Pages with Travis and Docker Asciidoctor,950]
+
+Here I have added some stuff. Max.
